@@ -16,13 +16,22 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 
 [My LinkedIn profile](https://www.linkedin.com/in/georgi-hristov-316178276/)
 
-## Testing tools:
+## Courses with certificates
 
-* Bug Tracking - JIRA, Trello
+* [Software Technologies - SoftUni](https://ibb.co/d0M3qjwH)
+
+* [QA Basics - SoftUni](https://ibb.co/9mW5Q713)
+
+* [AI Basics - SoftUni](https://ibb.co/fY41nsbL)
+
+
+## Testing tools:   
+
+* Bug Tracking - JIRA, Trello                       
 * Test Case Management Tools - TestRail, Zephyr
 * API testing - Postman
 
-## Languages: 
+## Languages:                                                         
 
 * JavaScript
 * SQL
@@ -43,5 +52,9 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 * Analytical thinking
 * Patience
 * Time Management
+
+  ## Projects
+
+* [TaskBoard APIs - Postman testing](https://www.postman.com/security-administrator-14994541/my-workspace/collection/96dx8zy/qa-task-board)
 
   
