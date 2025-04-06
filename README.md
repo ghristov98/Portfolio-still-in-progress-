@@ -18,12 +18,17 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 
 ## Courses with certificates
 
-* [Software Technologies - SoftUni](https://ibb.co/d0M3qjwH)
+* [Software Technologies - **SoftUni**](https://ibb.co/d0M3qjwH)
 
-* [QA Basics - SoftUni](https://ibb.co/9mW5Q713)
+* [QA Basics - **SoftUni**](https://ibb.co/9mW5Q713)
 
-* [AI Basics - SoftUni](https://ibb.co/fY41nsbL)
+* [AI Basics - **SoftUni**](https://ibb.co/fY41nsbL)
 
+## Courses in Progress
+
+* QA Fundamentals and Manual Testing - **SoftUni**
+
+* The Complete 2025 Software Testing Bootcamp - **Udemy**
 
 ## Testing tools:   
 
@@ -43,7 +48,7 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 * Manual Testing
 * Test Automation (Learning)
 * VS Code, Visual Studio
-* MySQL
+* MySQL (CREATE, INSERT INTO, DROP, ALTER, UPDATE, SELECT, SELECT DISTINCT, FROM, WHERE, IN, BETWEEN, LIKE, ORDER BY /ASC, DESC/, AND, OR and NOT) 
 
 ## Soft skills:
 
@@ -53,7 +58,7 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 * Patience
 * Time Management
 
-  ## Projects
+## Projects
 
 * [Task Board APIs - Postman testing](https://www.postman.com/security-administrator-14994541/my-workspace/collection/96dx8zy/qa-task-board)
 
