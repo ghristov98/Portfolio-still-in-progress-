@@ -62,5 +62,5 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 
 * [Task Board APIs - Postman testing](https://www.postman.com/security-administrator-14994541/my-workspace/collection/96dx8zy/qa-task-board)
 
-* [Task Board Testing](https://softwareuniversity-my.sharepoint.com/:x:/g/personal/ghristov98_students_softuni_bg/EWSi07wjx09Ait5ynEWNEoMBEzEL0Cx9LpeMaOqRrb09gw?e=hWVMh3)
+* [Task Board Testing](https://softwareuniversity-my.sharepoint.com/:x:/g/personal/ghristov98_students_softuni_bg/EWSi07wjx09Ait5ynEWNEoMBJ8V-X5ocf6T4uIPyZUM4Rw?e=oXRkkw)
   
