@@ -18,11 +18,13 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 
 ## Courses with certificates
 
-* [Software Technologies - **SoftUni**](https://ibb.co/d0M3qjwH)
+* [QA Fundamentals and Manual Testing](https://ibb.co/0jZ2TtxL)
 
-* [QA Basics - **SoftUni**](https://ibb.co/9mW5Q713)
+* [Software Technologies - **SoftUni**](https://ibb.co/Zp8YgJh9)
 
-* [AI Basics - **SoftUni**](https://ibb.co/fY41nsbL)
+* [QA Basics - **SoftUni**](https://ibb.co/Jjx6b30g)
+
+* [AI Basics - **SoftUni**](https://ibb.co/8gfyYvJm)
 
 ## Courses in Progress
 
