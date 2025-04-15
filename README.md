@@ -62,7 +62,7 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 
 #### Task Board
 
-* [Task Board - APIs Postman testing](https://www.postman.com/security-administrator-14994541/my-workspace/collection/96dx8zy/qa-task-board)
+* [Task Board - Postman API testing](https://www.postman.com/security-administrator-14994541/my-workspace/collection/96dx8zy/qa-task-board)
 
 * [Task Board - Test Cases and Bug Reports](https://softwareuniversity-my.sharepoint.com/:x:/g/personal/ghristov98_students_softuni_bg/EWSi07wjx09Ait5ynEWNEoMBzl44B6KKaDmkHv8E31dIxw?e=2euy7u)
 
@@ -72,13 +72,16 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 
 * [Idea Center - Web Application Test Cases and Bug Reports](https://softwareuniversity-my.sharepoint.com/:x:/g/personal/ghristov98_students_softuni_bg/ESBLi3FoSEhPkcrN0242MaQBr2pBGb1Gc3xIftS_TyBPEA?e=INxafL)
 
+* [Idea Center - Postman API testing](https://www.postman.com/security-administrator-14994541/qa-fundamentals-api-testing/collection/dmyksml/idea-center-api?action=share&creator=41526123)
+
 * [Idea Center - Web Application - SRS doc.](https://softwareuniversity-my.sharepoint.com/:w:/g/personal/ghristov98_students_softuni_bg/EWPxkXSYEO5AnfdlomCMc-8BtmuFaYcf67bW2nNqLuxRcA?e=XQbWfI)
 
 #### Movie Catalog 
 
 * [Movie Catalog - Test Cases and Bug Reports](https://softwareuniversity-my.sharepoint.com/:x:/g/personal/ghristov98_students_softuni_bg/ESv53tJfJ2tFvXYZq8R5JKUBVExPSLmQP6pxFHG96jNI6g?e=vhRyGV)
 
+* [Movie Catalog - Postman API testing](https://www.postman.com/security-administrator-14994541/qa-fundamentals-api-testing/collection/058rcbl/qa-manual-exam-moviecatalog-api?action=share&creator=41526123)
+
 * [Movie Catalog - SRS doc.](https://softwareuniversity-my.sharepoint.com/:w:/g/personal/ghristov98_students_softuni_bg/EU3F6e1On25GifrcAFOAvncBshgZR-sgxiypIyFj0vRIKQ?e=0NFZG4)
 
-* [Movie Catalog - Postman API testing](https://www.postman.com/security-administrator-14994541/qa-fundamentals-api-testing/collection/058rcbl/qa-manual-exam-moviecatalog-api?action=share&creator=41526123)
 
