@@ -28,8 +28,6 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 
 ## Courses in Progress
 
-* QA Fundamentals and Manual Testing - **SoftUni**
-
 * The Complete 2025 Software Testing Bootcamp - **Udemy**
 
 ## Testing tools:   
