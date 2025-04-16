@@ -76,7 +76,7 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 
 * [Idea Center - Web Application - SRS doc.](https://softwareuniversity-my.sharepoint.com/:w:/g/personal/ghristov98_students_softuni_bg/EWPxkXSYEO5AnfdlomCMc-8BtmuFaYcf67bW2nNqLuxRcA?e=XQbWfI)
 
-#### Movie Catalog 
+#### Movie-Catalog-Web-Application-Testing
 
 * [Movie Catalog - Test Cases and Bug Reports](https://softwareuniversity-my.sharepoint.com/:x:/g/personal/ghristov98_students_softuni_bg/ESv53tJfJ2tFvXYZq8R5JKUBVExPSLmQP6pxFHG96jNI6g?e=vhRyGV)
 
