@@ -1,0 +1,66 @@
+The project involves testing and ensuring the functionality of a web application called Movie Catalog , which allows users to manage their personal movie collections.
+The primary objective is to validate that the application works as expected by creating test cases , identifying and documenting bugs , and performing API testing  using Postman. 
+Key Components of the Project  
+1. Software Requirements  
+
+    Purpose : The Movie Catalog application enables users to register, log in, manage their profiles, add movies, and manage their movie collections.
+    Scope : The document focuses on basic functionalities for unregistered/non-logged users  and registered/logged users , excluding admin-specific features.
+    System Environment : The application is accessible via a URL and supports two types of users:
+        Unregistered Users : Can access the Landing Page, with options to either register or log in.
+        Registered Users : Can access additional features like profile editing, adding movies, and managing their movie collections.
+         
+     
+
+2. Functionalities  
+
+    Landing Page : Serves as the main entry point for unregistered users, featuring sections like "About Us," "Our Services," "Login," "Register," and "Copyrights."
+    Register Form : Allows users to register with fields for first name, last name, username, email, password, and repeat password. 
+    Login Page : Enables registered users to log in using email and password, with an option to reset forgotten passwords.
+    Home Page for Logged Users : Displays navigation options like Profile Picture, Add Movie, All Movies, Watched Movies, Unwatched Movies, and Logout.
+    Profile Info Page : Shows default profile information and includes counters for all movies, watched movies, and unwatched movies.
+    Edit Profile Page : Allows users to edit their profile details, including first name, last name, email, username, and profile picture (via URL).
+    Add Movie Page : Users can add new movies with a title, description, optional poster URL, optional YouTube trailer link, and an option to mark the movie as watched.
+    All Movies Page : Displays all added movies with options to view details, edit, delete, and mark movies as watched or unwatched.
+    Watched/Unwatched Pages : Similar to the All Movies page but filtered by watched or unwatched status.
+     
+
+3. Testing Tasks  
+
+    Test Cases : Write at least 15 test cases  covering the 6 use cases:
+        Accessing the Landing/Home Page.
+        User Registration.
+        User Login.
+        Profile Management.
+        Adding Movies.
+        Movie Management.
+         
+    Bug Reports : Identify and document at least 5 bugs  in the application, with at least 2 being high priority or critical severity.
+    Documentation : Use the provided Test Management and Bug Tracker Template  to document all test cases and bugs.
+     
+
+4. API Testing  
+
+    Endpoints :
+        User-related endpoints: Register a user (POST /api/User/Register) and authenticate a user (POST /api/User/Authentication).
+        Movie-related endpoints: Create a movie (POST /api/Movie/Create), edit a movie (PUT /api/Movie/Edit), and delete a movie (DELETE /api/Movie/Delete).
+        Catalog-related endpoint: List all movies (GET /api/Catalog/All).
+         
+    Tasks :
+        Log in to the API to obtain an access token.
+        Perform API requests to add, list, edit, and delete movies.
+        Organize all API requests into a Postman collection  and export it as a JSON file.
+         
+     
+
+5. Submission Requirements  
+
+    Submit a .zip or .rar archive containing:
+        The completed Test Management and Bug Tracker Template .
+        The exported Postman collection  in JSON format.
+         
+     
+
+Goals  
+
+The project aims to ensure the Movie Catalog  application is functional, user-friendly, and bug-free by systematically testing its features and APIs. 
+It also provides hands-on experience in manual testing, bug reporting, and API testing using tools like Postman. 
