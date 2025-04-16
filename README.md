@@ -60,7 +60,7 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 
 ## Projects
 
-#### Task Board
+#### [Task Board Web Application](https://github.com/ghristov98/Portfolio-still-in-progress-/tree/main/Task-Board-Web-Application-Testing) 
 
 * [Task Board - Test Cases and Bug Reports](https://softwareuniversity-my.sharepoint.com/:x:/g/personal/ghristov98_students_softuni_bg/EWSi07wjx09Ait5ynEWNEoMBzl44B6KKaDmkHv8E31dIxw?e=2euy7u)
 
