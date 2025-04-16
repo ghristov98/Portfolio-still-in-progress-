@@ -1,0 +1,83 @@
+The project revolves around testing and ensuring the functionality of a web application called Task Board , which is designed for managing tasks. 
+The primary objective is to validate that the application works as expected by creating test cases , identifying and documenting bugs , and performing API testing
+using tools like Postman. 
+Key Components of the Project  
+1. Software Requirements  
+
+    Purpose : The Task Board  application allows users to create, view, edit, and organize tasks into boards (e.g., Open, In Progress, Done).
+It also includes search functionality and a Web API for advanced users.
+    Scope : The document focuses on basic functionalities such as task creation, viewing, editing, searching, and board management.
+It excludes any admin-specific features.
+    System Environment : The application is accessible via a URL and supports two types of users:
+        General Users : Can access the Home Page, Task Board, Create Task, and Search functionalities.
+        Advanced Users : Can interact with the application programmatically via the Web API.
+         
+     
+
+2. Functionalities  
+
+    Home Page :
+        Displays a welcome message  and a side menu  with navigation options (Home, Task Board, Create, Search).
+        Includes a task summary section  showing the total number of tasks and tasks organized by boards.
+        Provides quick access buttons  for Task Board, Create Task, Search Tasks, and RESTful API.
+         
+    Task Board Page :
+        Displays tasks in a grid layout, organized by boards (Open, In Progress, Done).
+        Each task includes a title, brief description, and action options ("View" and "Edit").
+         
+    Task Creation :
+        Users can create tasks by providing a title  (mandatory), an optional description , and selecting a board .
+         
+    Task Viewing :
+        Users can view all tasks organized by boards or click "View" to see detailed information about a specific task.
+         
+    Task Editing :
+        Users can edit the title, description, or move a task to a different board.
+         
+    Task Searching :
+        Users can search for tasks using keywords, and the application will display matching tasks with relevant details.
+         
+    Web API :
+        Provides endpoints for performing CRUD operations on tasks programmatically.
+         
+     
+
+3. Testing Tasks  
+
+    Test Cases : Write at least 15 test cases  covering the following use cases:
+        Accessing the Home Page.
+        Viewing the Task Board.
+        Creating a Task.
+        Viewing Task Details.
+        Editing a Task.
+        Searching for Tasks.
+         
+    Bug Reports : Identify and document at least 5 bugs , with at least 2 being high priority or critical severity.
+    Documentation : Use the provided Test Management and Bug Tracker Template  to document all test cases and bugs.
+     
+
+4. API Testing  
+
+    Endpoints :
+        Boards : Get all boards (GET /api/Boards).
+        Tasks : Get all tasks (GET /api/Tasks), get tasks from the "Done" board (GET /api/Tasks?board=Done), find tasks by keyword (GET /api/Tasks?keyword=home).
+        Task Management : Create a new task (POST /api/Tasks/Create), edit a task (PUT /api/Tasks/Edit), delete a task (DELETE /api/Tasks/Delete).
+         
+    Tasks :
+        Perform API requests to create, list, edit, and delete tasks.
+        Organize all API requests into a Postman collection  and export it as a JSON file.
+         
+     
+
+5. Submission Requirements  
+
+    Submit a .zip or .rar archive containing:
+        The completed Test Management and Bug Tracker Template .
+        The exported Postman collection  in JSON format.
+         
+     
+
+Goals  
+
+The project aims to ensure the Task Board  application is functional, user-friendly, and bug-free by systematically testing its features and APIs.
+It also provides hands-on experience in manual testing, bug reporting, and API testing using tools like Postman. 
