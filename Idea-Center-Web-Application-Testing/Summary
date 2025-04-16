@@ -1,0 +1,62 @@
+The project revolves around testing and ensuring the functionality of a web application called Idea Center . The primary objective is to validate that the application works as expected by creating test cases ,
+identifying and documenting bugs , and performing API testing  using Postman. 
+Key Components of the Project  
+1. Software Requirements  
+
+    Purpose : The Idea Center allows users to register, log in, manage their profiles, create ideas, and manage those ideas.
+    Scope : The document focuses on basic functionalities for unregistered/non-logged users  and registered/logged users , excluding admin-specific features.
+    System Environment : The application is accessible via a URL and supports two types of users:
+        Unregistered Users : Can access the Home page, sign up, or log in.
+        Registered Users : Can access additional features like profile editing, idea creation, and idea management.
+         
+     
+
+2. Functionalities  
+
+    Home Page : Displays a carousel with slides encouraging users to sign up or log in.
+    Sign Up Page : Allows users to register with fields for username, email, password, and terms of service agreement. Supports alternative sign-up via Google or Facebook.
+    Sign In Page : Enables registered users to log in using email and password.
+    Profile Management : Logged-in users can edit their profile details (e.g., profile picture, first name, last name, city, and description).
+    Idea Creation : Users can create ideas with a title, description, and optional image URL.
+    Idea Management : Users can view, edit, or delete their created ideas and search for ideas using keywords.
+     
+
+3. Testing Tasks  
+
+    Test Cases : Write at least 15 test cases  covering the 6 use cases:
+        Accessing the Home Page.
+        User Registration.
+        User Sign-In.
+        Profile Management.
+        Idea Creation.
+        Idea Management.
+         
+    Bug Reports : Identify and document at least 5 bugs  in the application.
+    Documentation : Use the provided Test Management and Bug Tracker Template  to document all test cases and bugs.
+     
+
+4. API Testing  
+
+    Endpoints :
+        User-related endpoints: Create a user (POST /api/User/Create) and authenticate a user (POST /api/User/Authentication).
+        Idea-related endpoints: List all ideas (GET /api/Idea/All), create an idea (POST /api/Idea/Create), edit an idea (PUT /api/Idea/Edit), and delete an idea (DELETE /api/Idea/Delete).
+         
+    Tasks :
+        Log in to the API to obtain an access token.
+        Perform API requests to create, list, edit, and delete ideas.
+        Organize all API requests into a Postman collection  and export it as a JSON file.
+         
+     
+
+5. Submission Requirements  
+
+    Submit a .zip or .rar archive containing:
+        The completed Test Management and Bug Tracker Template .
+        The exported Postman collection  in JSON format.
+         
+     
+
+Goals  
+
+The project aims to ensure the Idea Center  application is functional, user-friendly, and bug-free by systematically testing its features and APIs. It also provides hands-on experience in manual testing,
+bug reporting, and API testing using tools like Postman. 
