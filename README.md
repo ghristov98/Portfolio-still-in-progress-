@@ -68,7 +68,7 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 
 * [Task Board - SRS doc.](https://softwareuniversity-my.sharepoint.com/:w:/g/personal/ghristov98_students_softuni_bg/EVvtIdbrDK1JuTtLJvn8XWwBgErhZfoc4vc2vBukn-hveQ?e=1o0mn9)
 
-#### Idea Center Web Application
+#### [Idea Center Web Application](https://github.com/ghristov98/Portfolio-still-in-progress-/tree/main/Idea-Center-Web-Application-Testing)
 
 * [Idea Center - Web Application Test Cases and Bug Reports](https://softwareuniversity-my.sharepoint.com/:x:/g/personal/ghristov98_students_softuni_bg/ESBLi3FoSEhPkcrN0242MaQBr2pBGb1Gc3xIftS_TyBPEA?e=INxafL)
 
@@ -76,7 +76,7 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 
 * [Idea Center - Web Application - SRS doc.](https://softwareuniversity-my.sharepoint.com/:w:/g/personal/ghristov98_students_softuni_bg/EWPxkXSYEO5AnfdlomCMc-8BtmuFaYcf67bW2nNqLuxRcA?e=XQbWfI)
 
-#### [Movie Catalog](https://github.com/ghristov98/Portfolio-still-in-progress-/tree/main/Movie-Catalog-Web-Application-Testing)
+#### [Movie Catalog Web Application](https://github.com/ghristov98/Portfolio-still-in-progress-/tree/main/Movie-Catalog-Web-Application-Testing)
 
 * [Movie Catalog - Test Cases and Bug Reports](https://softwareuniversity-my.sharepoint.com/:x:/g/personal/ghristov98_students_softuni_bg/ESv53tJfJ2tFvXYZq8R5JKUBVExPSLmQP6pxFHG96jNI6g?e=vhRyGV)
 
