@@ -48,7 +48,8 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 * Manual Testing
 * Test Automation (Learning)
 * VS Code, Visual Studio
-* MySQL (CREATE, INSERT INTO, DROP, ALTER, UPDATE, SELECT, SELECT DISTINCT, FROM, WHERE, IN, BETWEEN, LIKE, ORDER BY /ASC, DESC/, AND, OR and NOT) 
+* MySQL (CREATE, INSERT INTO, DROP, ALTER, UPDATE, SELECT, SELECT DISTINCT, FROM, WHERE, IN, BETWEEN, LIKE, ORDER BY /ASC, DESC/, AND, OR and NOT)
+* Replit
 
 ## Soft skills:
 
