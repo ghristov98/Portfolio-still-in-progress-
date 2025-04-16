@@ -1,0 +1,241 @@
+{
+	"info": {
+		"_postman_id": "cec4ecee-0609-4f59-9ada-2459318e8f43",
+		"name": "QA-Task-Board-APIs",
+		"description": "This is an example of testing the **\"Task Boad\"** system**. \"Task Board**\" is a simple information system for managing tasks in a task board. Each task consists of title + description. Tasks are organized in boards, which are displayed as columns (sections): Open, In Progress, Done. Users can view the task board with the tasks, search for tasks by keyword, view task details, create new tasks and edit existing tasks (and move existing tasks from one board to another).",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "41526123",
+		"_collection_link": "https://www.postman.com/security-administrator-14994541/my-workspace/collection/96dx8zy/qa-task-board?action=share&source=collection_link&creator=41526123"
+	},
+	"item": [
+		{
+			"name": "Task Board All APIs",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5.worf.replit.dev/api",
+					"protocol": "https",
+					"host": [
+						"026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5",
+						"worf",
+						"replit",
+						"dev"
+					],
+					"path": [
+						"api"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Task Board All Tasks",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5.worf.replit.dev/api/tasks",
+					"protocol": "https",
+					"host": [
+						"026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5",
+						"worf",
+						"replit",
+						"dev"
+					],
+					"path": [
+						"api",
+						"tasks"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Task Board ID Task",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5.worf.replit.dev/api/tasks/2",
+					"protocol": "https",
+					"host": [
+						"026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5",
+						"worf",
+						"replit",
+						"dev"
+					],
+					"path": [
+						"api",
+						"tasks",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Task Board Аll Тasks Мatching Givenn Keyword",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5.worf.replit.dev/api/tasks/search/board",
+					"protocol": "https",
+					"host": [
+						"026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5",
+						"worf",
+						"replit",
+						"dev"
+					],
+					"path": [
+						"api",
+						"tasks",
+						"search",
+						"board"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Task Board Tasks By Board Name",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5.worf.replit.dev/api/tasks/board/Done",
+					"protocol": "https",
+					"host": [
+						"026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5",
+						"worf",
+						"replit",
+						"dev"
+					],
+					"path": [
+						"api",
+						"tasks",
+						"board",
+						"Done"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Task Board New Task",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\":\"Add Tests\",\r\n     \"description\":\"API + UI tests\",\r\n      \"board\":\"Open\"\r\n      }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5.worf.replit.dev/api/tasks",
+					"protocol": "https",
+					"host": [
+						"026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5",
+						"worf",
+						"replit",
+						"dev"
+					],
+					"path": [
+						"api",
+						"tasks"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Task Board Edit Task",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\":\"changed title\",\r\n \"board\":\"Done\"\r\n }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5.worf.replit.dev/api/tasks/7",
+					"protocol": "https",
+					"host": [
+						"026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5",
+						"worf",
+						"replit",
+						"dev"
+					],
+					"path": [
+						"api",
+						"tasks",
+						"7"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Task Board Delete A Task",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5.worf.replit.dev/api/tasks/7",
+					"protocol": "https",
+					"host": [
+						"026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5",
+						"worf",
+						"replit",
+						"dev"
+					],
+					"path": [
+						"api",
+						"tasks",
+						"7"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "endpoint\n",
+			"value": "https://026c80cd-051e-4fc3-9eb7-64a993bf93d5-00-1xeear2gx6kn5.worf.replit.dev/api\n",
+			"type": "string"
+		}
+	]
+}
