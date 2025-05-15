@@ -30,6 +30,8 @@ By combining my analytical mindset with a keen eye for detail, I am now able to 
 
 * The Complete 2025 Software Testing Bootcamp - **Udemy**
 
+* Programming Fundamentals and Unit Testing - **SoftUni**
+
 ## Testing tools:   
 
 * Bug Tracking - JIRA, Trello                       
